@@ -1,6 +1,4 @@
 
-
-😎😎😎😎😎😎😎
  
  <h1 align="center">Hi 👋, I'm ABIHU KWASHIE AGEDE</h1>
 <h3 align="center">A passionate SOFTWARE ENDINEER from GHANA</h3>
