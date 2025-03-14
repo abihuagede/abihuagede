@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **FLUTTER AND DART**
 
-- 👨‍💻 All of my projects are available at [https://abihuagede.github.io/MyPortFoilio/portfolio.html]([https://abihuagede.github.io/MyPortFoilio/portfolio.html](https://abihuagede.github.io/AbihuCodesPortFolio/portfolio.html))
+- 👨‍💻 All of my projects are available at  (https://abihuagede.github.io/AbihuCodesPortFolio/portfolio.html)
 
 - 💬 Ask me about **FLUTTER AND DART**
 
