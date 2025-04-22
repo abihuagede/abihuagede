@@ -30,7 +30,7 @@ A full restaurant order system with:
 
 ## 📫 Let’s Connect
 - GitHub: [@abihuagede](https://github.com/abihuagede)
-- Email: abihuagede11@gmail.com
+- Email: abihuagede12@gmail.com
 
 ---
 
