@@ -24,7 +24,7 @@ A full restaurant order system with:
 - ⏰ Live Open/Closed Time
 - 🔐 Firebase Auth
 
-➡️ [View Project](https://github.com/abihuagede/greengrasspub)
+➡️ [View Project]([https://github.com/abihuagede/greengrasspub](https://abihuagede.github.io/AbihuCodesPortFolio/portfolio.html))
 
 ---
 
