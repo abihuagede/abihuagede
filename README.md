@@ -6,23 +6,15 @@
 ---
 
 ## 🧰 Tech Stack
-- 🌐 HTML | CSS | JavaScript (Vanilla)
+- 🌐 HTML | CSS | JavaScript (Vanilla) | Flutter | Dart 
 - ⚙️ PHP | MySQL
 - 🔥 Firebase Auth | Previously Realtime DB
 - 💳 Paystack | Flutterwave (In Progress)
-- 🧠 Tools: Git | GitHub | VS Code | Photoshop
+- 🧠 Tools: Git | GitHub | VS Code | Photoshop 
 
 ---
 
-## 🛠 Featured Projects
-
-### 🍴 GreenGrassPub (Online Menu + Cart System)
-A full restaurant order system with:
-- 🛒 Cart
-- ✅ Order Now button
-- 📱 Responsive Design
-- ⏰ Live Open/Closed Time
-- 🔐 Firebase Auth
+ 
 
 ➡️ [View Project]([https://github.com/abihuagede/greengrasspub](https://abihuagede.github.io/AbihuCodesPortFolio/portfolio.html))
 
