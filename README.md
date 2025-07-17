@@ -24,7 +24,3 @@
 - GitHub: [@abihuagede](https://github.com/abihuagede)
 - Email: abihuagede12@gmail.com
 
----
-
-### 💡 Fun Fact:
-I’m building full e-commerce platforms from scratch using only HTML, CSS, JavaScript, PHP, and MySQL. I love solving tech challenges and collaborating on real-world projects!
